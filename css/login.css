@@ -1,0 +1,15 @@
+#logo-name {
+    text-decoration: none;
+}
+
+.form-group label {
+    color: #003F7F;
+}
+
+.form-group a {
+    color: #003F7F;
+}
+
+.form-group a:hover {
+    color: #06294d;
+}
